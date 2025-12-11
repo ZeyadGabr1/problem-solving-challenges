@@ -1,6 +1,6 @@
 
 # Simple Array Sum - HackerRank.com
-![Problem](./simpleArraySum/screenshots/problem.png)
+![Problem](./screenshots/problem.png)
 
 ## Problem Description
 Given an array of integers, return the sum of all elements.
@@ -11,7 +11,7 @@ Given an array of integers, return the sum of all elements.
 
 ## Solution
 
-![Problem Screenshot](./simpleArraySum/screenshots/code.png)
+![Problem Screenshot](./screenshots/code.png)
 ## How to Run
 
 ```bash
