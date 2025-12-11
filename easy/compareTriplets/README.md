@@ -16,7 +16,7 @@ The rating for Alice's challenge is the triplet a = (a[0], a[1], a[2]), and the 
 
 ## Solution
 
-![Solution Screenshot](./screenshots/code)
+![Solution Screenshot](./screenshots/code.png)
 ## How to Run
 
 ```bash
