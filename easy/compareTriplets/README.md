@@ -9,7 +9,7 @@ The rating for Alice's challenge is the triplet a = (a[0], a[1], a[2]), and the 
 
 ## Problem Link
 
-[HackerRank – Simple Array Sum](https://www.hackerrank.com/challenges/compare-the-triplets)
+[HackerRank –  Compare Triplets ](https://www.hackerrank.com/challenges/compare-the-triplets)
 
 
 
