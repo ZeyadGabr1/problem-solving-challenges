@@ -14,7 +14,7 @@ Given a square matrix, calculate the absolute difference between the sums of its
 
 ## Solution
 
-![Solution Screenshot](./screenshots/code)
+![Solution Screenshot](./screenshots/code.png)
 ## How to Run
 
 ```bash
