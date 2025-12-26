@@ -1,0 +1,22 @@
+def gradingStudents(grades: list[int]):
+    
+    for i in range(len(grades)):
+        difference = (5 - (grades[i] % 5))
+        
+        if grades[i] >= 38 and difference < 3:
+            grades[i] += difference
+    
+    return grades
+
+
+if __name__ == "__main__":
+
+    grades_count = int(input().strip())
+
+    grades = []
+
+    for _ in range(grades_count):
+        grades_item = int(input().strip())
+        grades.append(grades_item)
+
+    print(gradingStudents(grades))
